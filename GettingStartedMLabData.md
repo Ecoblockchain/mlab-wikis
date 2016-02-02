@@ -16,7 +16,7 @@ M-Lab data can be queried using the Big Query web interface, using the command l
 
 ### Big Query Web Interface
 
-M-Lab data is easily queried using Google’s web interface to Big Query. All that is required is to login using any Google account in the Google Developer Console. See our tutorial, [Getting started with the Big Query web interface](#) for more information.
+M-Lab data is easily queried using Google’s web interface to Big Query. All that is required is to login using any Google account in the Google Developer Console. See our tutorial, [Getting started with the Big Query web interface](https://github.com/m-lab/mlab-wikis/blob/master/GettingStartedBQWeb.md) for more information.
 
 ### Big Query tools in the Google Cloud SDK
 
